@@ -11,11 +11,11 @@ instructions:
     - flask <name of db variable> ej: flask init-db
   
   macOS:
-    - export FLASK_APP= <app name>
-    - export FLASK_DATABASE_HOST= <host name>
-    - export FLASK_DATABASE_PASSWORD= <password db>
-    - export FLASK_DATABASE_USER= <username db>
-    - export FLASK_DATABASE= <name of db>
-    - flask <name of db variable> ej: flask init-db
+    - export FLASK_APP= <app name>\n
+    - export FLASK_DATABASE_HOST= <host name>\n
+    - export FLASK_DATABASE_PASSWORD= <password db>\n
+    - export FLASK_DATABASE_USER= <username db>\n
+    - export FLASK_DATABASE= <name of db>\n
+    - flask <name of db variable> ej: flask init-db\n
 
   
